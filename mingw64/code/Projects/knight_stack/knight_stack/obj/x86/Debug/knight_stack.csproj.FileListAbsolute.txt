@@ -1,0 +1,5 @@
+c:\users\eluguan\documents\visual studio 2010\Projects\knight_stack\knight_stack\bin\Debug\knight_stack.exe
+c:\users\eluguan\documents\visual studio 2010\Projects\knight_stack\knight_stack\bin\Debug\knight_stack.pdb
+c:\users\eluguan\documents\visual studio 2010\Projects\knight_stack\knight_stack\obj\x86\Debug\knight_stack.exe
+c:\users\eluguan\documents\visual studio 2010\Projects\knight_stack\knight_stack\obj\x86\Debug\knight_stack.pdb
+C:\Users\eluguan\Documents\Visual Studio 2010\Projects\knight_stack\knight_stack\obj\x86\Debug\knight_stack.csprojResolveAssemblyReference.cache
