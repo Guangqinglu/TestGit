@@ -1,4 +1,0 @@
-c:\users\eluguan\documents\visual studio 2010\Projects\Socket_client\Socket_client\bin\Debug\Socket_client.exe
-c:\users\eluguan\documents\visual studio 2010\Projects\Socket_client\Socket_client\bin\Debug\Socket_client.pdb
-c:\users\eluguan\documents\visual studio 2010\Projects\Socket_client\Socket_client\obj\x86\Debug\Socket_client.exe
-c:\users\eluguan\documents\visual studio 2010\Projects\Socket_client\Socket_client\obj\x86\Debug\Socket_client.pdb

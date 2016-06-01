@@ -1,4 +1,0 @@
-c:\users\eluguan\documents\visual studio 2010\Projects\knight_traverse_csharp\knight_traverse_csharp\bin\Debug\knight_traverse_csharp.exe
-c:\users\eluguan\documents\visual studio 2010\Projects\knight_traverse_csharp\knight_traverse_csharp\bin\Debug\knight_traverse_csharp.pdb
-c:\users\eluguan\documents\visual studio 2010\Projects\knight_traverse_csharp\knight_traverse_csharp\obj\x86\Debug\knight_traverse_csharp.exe
-c:\users\eluguan\documents\visual studio 2010\Projects\knight_traverse_csharp\knight_traverse_csharp\obj\x86\Debug\knight_traverse_csharp.pdb

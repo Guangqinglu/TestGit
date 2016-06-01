@@ -1,4 +1,0 @@
-c:\users\eluguan\documents\visual studio 2010\Projects\Socket\Socket\bin\Debug\Socket.exe
-c:\users\eluguan\documents\visual studio 2010\Projects\Socket\Socket\bin\Debug\Socket.pdb
-c:\users\eluguan\documents\visual studio 2010\Projects\Socket\Socket\obj\x86\Debug\Socket.exe
-c:\users\eluguan\documents\visual studio 2010\Projects\Socket\Socket\obj\x86\Debug\Socket.pdb
