@@ -1,0 +1,4 @@
+c:\users\eluguan\documents\visual studio 2010\Projects\C_sharp_test\C_sharp_test\bin\Debug\C_sharp_test.exe
+c:\users\eluguan\documents\visual studio 2010\Projects\C_sharp_test\C_sharp_test\bin\Debug\C_sharp_test.pdb
+c:\users\eluguan\documents\visual studio 2010\Projects\C_sharp_test\C_sharp_test\obj\x86\Debug\C_sharp_test.exe
+c:\users\eluguan\documents\visual studio 2010\Projects\C_sharp_test\C_sharp_test\obj\x86\Debug\C_sharp_test.pdb

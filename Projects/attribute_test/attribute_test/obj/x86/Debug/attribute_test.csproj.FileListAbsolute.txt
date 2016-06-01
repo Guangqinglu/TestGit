@@ -1,0 +1,4 @@
+c:\users\eluguan\documents\visual studio 2010\Projects\attribute_test\attribute_test\bin\Debug\attribute_test.exe
+c:\users\eluguan\documents\visual studio 2010\Projects\attribute_test\attribute_test\bin\Debug\attribute_test.pdb
+c:\users\eluguan\documents\visual studio 2010\Projects\attribute_test\attribute_test\obj\x86\Debug\attribute_test.exe
+c:\users\eluguan\documents\visual studio 2010\Projects\attribute_test\attribute_test\obj\x86\Debug\attribute_test.pdb
